@@ -1,6 +1,6 @@
 # Dive-Into-Machine-Learning-System
 
-This is a repository collecting the materials for learning machine learning system (Research & Development), including
+This is a repository collecting the learning materials for learning machine learning system (Research & Development), including
 
 * [Survey](#Survey)
 * [Course](#Course)
