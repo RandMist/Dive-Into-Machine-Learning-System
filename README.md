@@ -1,22 +1,17 @@
 # Dive-Into-Machine-Learning-System
 
-This is a repository collecting the materials for learning machine learning system (Research & Development), including books, courses, papers, blogs and tools/projects.
+This is a repository collecting the materials for learning machine learning system (Research & Development), including
 
-Table of Contents
-
-=================
-
-
-
-\* [Dive-Into-Machine-Learning-System](#dive-into-machine-learning-system)
-
-  \* [Survey](#survey)
-
-   \* [Deep Learning Compiler](#deep-learning-compiler)
+* [Survey](#Survey)
+* [Course](#Course)
 
 ## Survey
 
 ### Deep Learning Compiler
 
 * [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/pdf/2002.03794.pdf)
+
+## Course
+
+* UCB AI-Sys [Spring 2019](https://ucbrise.github.io/cs294-ai-sys-sp19/) [Fall 2019](https://ucbrise.github.io/cs294-ai-sys-fa19/#grading) offers a paper list of serveral topics of mlsys
 
