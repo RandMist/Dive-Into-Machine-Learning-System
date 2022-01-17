@@ -9,6 +9,7 @@ This is a repository collecting the learning materials for machine learning syst
 ## Course
 
 * UCB AI-Sys [Spring 2019](https://ucbrise.github.io/cs294-ai-sys-sp19/) / [Fall 2019](https://ucbrise.github.io/cs294-ai-sys-fa19/#grading) offers a paper list of serveral topics of mlsys
+* CMU 15-884 mlsys [spring 2021](https://catalyst.cs.cmu.edu/15-884-mlsys-sp21/schedule)
 
 
 
