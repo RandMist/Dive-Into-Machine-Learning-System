@@ -32,3 +32,8 @@ This is a repository collecting the learning materials for machine learning syst
 ### Model Training
 
 * [16'Arxiv] [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174)
+
+### Machine Learning System in Production
+
+- [18'HPCA] [Applied machine learning at facebook: A datacenter infrastructure perspective](https://systems.cs.columbia.edu/private-systems-class/papers/Hazelwood2018Applied.pdf)
+
