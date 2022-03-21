@@ -37,3 +37,7 @@ This is a repository collecting the learning materials for machine learning syst
 
 - [18'HPCA] [Applied machine learning at facebook: A datacenter infrastructure perspective](https://systems.cs.columbia.edu/private-systems-class/papers/Hazelwood2018Applied.pdf)
 
+## Graph Neural Network System
+
+- [20'SC] [FeatGraph- A Flexible and Efficient Backend for Graph Neural Network Systems](https://arxiv.org/pdf/2008.11359.pdf?ref=https://githubhelp.com)
+
