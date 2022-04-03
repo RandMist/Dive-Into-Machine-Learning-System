@@ -37,6 +37,7 @@ This is a repository collecting the learning materials for machine learning syst
 ### Machine Learning System in Production
 
 - [18'HPCA] [Applied machine learning at facebook: A datacenter infrastructure perspective](https://systems.cs.columbia.edu/private-systems-class/papers/Hazelwood2018Applied.pdf)
+- [17'KDD] [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://dl.acm.org/doi/pdf/10.1145/3097983.3098021)
 
 ### Graph Neural Network System
 
