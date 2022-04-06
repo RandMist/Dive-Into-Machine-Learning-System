@@ -34,6 +34,10 @@ This is a repository collecting the learning materials for machine learning syst
 
 * [16'Arxiv] [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174)
 
+## Model Serving
+
+- [17'Arxiv] [TensorFlow-Serving: Flexible, High-Performance ML Serving](https://arxiv.org/pdf/1712.06139.pdf)
+
 ### Machine Learning System in Production
 
 - [18'HPCA] [Applied machine learning at facebook: A datacenter infrastructure perspective](https://systems.cs.columbia.edu/private-systems-class/papers/Hazelwood2018Applied.pdf)
