@@ -26,13 +26,13 @@ This is a repository collecting the learning materials for machine learning syst
 
 ### Deep Learning Compiler
 
-* [20'Arxiv] [MLIR: A Compiler Infrastructure for the End of Moore’s Law](https://arxiv.org/pdf/2002.11054.pdf)
+* [20'Arxiv] [MLIR: A Compiler Infrastructure for the End of Moore’s Law](https://arxiv.org/pdf/2002.11054.pdf) 
 
 * \[18'OSDI\] [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning]()
 
 ### Model Training
 
-* [16'Arxiv] [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174)
+* [16'Arxiv] [Training Deep Nets with Sublinear Memory Cost](https://arxiv.org/abs/1604.06174) 
 
 ## Model Serving
 
